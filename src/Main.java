@@ -1,3 +1,7 @@
+//配列をArrayListに変更
+//クラスを作成して変数をまとめる
+//メソッドに置き換える
+
 import java.util.ArrayList;
 
 public class Main {
